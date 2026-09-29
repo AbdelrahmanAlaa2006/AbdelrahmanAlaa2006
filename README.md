@@ -54,11 +54,4 @@ Platforms are live today for teachers across English, Programming & AI, Mathemat
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanAlaa2006/AbdelrahmanAlaa2006/output/github-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AbdelrahmanAlaa2006/AbdelrahmanAlaa2006/output/github-snake.svg">
-  </picture>
-</p>
-
 <p align="center"><i>Open to freelance and collaboration on web platforms and secure backends. Let's talk!</i></p>
